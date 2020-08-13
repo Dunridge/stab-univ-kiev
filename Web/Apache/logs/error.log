@@ -1,0 +1,112 @@
+[Tue Jan 07 13:56:53 2014] [error] [client 127.0.0.1] File does not exist: d:/www/favicon.ico
+[Tue Jan 07 13:56:53 2014] [error] [client 127.0.0.1] File does not exist: d:/www/favicon.ico
+PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/web/php/ext\php_pgsql.dll' - Не найден указанный модуль.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/web/php/ext\php_pgsql.dll' - Не найден указанный модуль.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/web/php/ext\php_pgsql.dll' - Не найден указанный модуль.
+ in Unknown on line 0
+[Thu Jun 06 09:02:45 2019] [error] [client 10.27.0.12] File does not exist: d:/www/mysite/
+[Thu Jun 06 09:02:45 2019] [error] [client 10.27.0.12] File does not exist: d:/www/favicon.ico
+[Thu Jun 06 09:02:45 2019] [error] [client 10.27.0.12] File does not exist: d:/www/favicon.ico
+[Thu Jun 06 09:03:53 2019] [error] [client 10.27.0.12] File does not exist: d:/www/mysite/pics/drawing2.png
+[Thu Jun 06 09:03:53 2019] [error] [client 10.27.0.12] File does not exist: d:/www/mysite/ico.jpg
+[Thu Jun 06 09:04:11 2019] [error] [client 10.27.0.12] File does not exist: d:/www/mysite/pics/drawing2.png
+[Thu Jun 06 09:04:20 2019] [error] [client 10.27.0.12] File does not exist: d:/www/mysite/pics/drawing2.png
+[Thu Jun 06 15:03:44 2019] [error] [client 127.0.0.1] File does not exist: d:/www/mysite/pics/drawing2.png
+[Thu Jun 06 15:03:45 2019] [error] [client 127.0.0.1] File does not exist: d:/www/mysite/ico.jpg
+[Fri Dec 20 15:44:21 2019] [error] [client 10.27.0.12] File does not exist: d:/www/mysite/pics/drawing2.png
+[Fri Dec 20 15:44:22 2019] [error] [client 10.27.0.12] File does not exist: d:/www/mysite/ico.jpg
+[Wed Jan 29 11:16:21 2020] [error] [client 10.27.0.12] File does not exist: d:/www/mysite/pics/drawing2.png
+[Wed Jan 29 11:16:22 2020] [error] [client 10.27.0.12] File does not exist: d:/www/mysite/ico.jpg
+[Wed Feb 05 13:48:39 2020] [error] [client 10.27.0.12] File does not exist: d:/www/mysite/pics/drawing2.png
+[Wed Feb 05 13:48:40 2020] [error] [client 10.27.0.12] File does not exist: d:/www/mysite/ico.jpg
+[Wed Feb 05 13:49:00 2020] [error] [client 10.27.0.12] File does not exist: d:/www/mysite/pics/drawing2.png
+[Wed Feb 05 13:49:00 2020] [error] [client 10.27.0.12] File does not exist: d:/www/favicon.ico
+[Wed Feb 05 13:49:00 2020] [error] [client 10.27.0.12] File does not exist: d:/www/favicon.ico
+[Wed Feb 05 13:49:37 2020] [error] [client 10.27.0.12] File does not exist: d:/www/mysite/pics/drawing2.png
+[Wed Feb 05 13:49:41 2020] [error] [client 10.27.0.12] File does not exist: d:/www/mysite/pics/drawing2.png
+[Tue Jun 30 17:28:28 2020] [error] [client 10.27.0.12] File does not exist: d:/www/mysite/pics/drawing2.png
+[Tue Jun 30 17:28:29 2020] [error] [client 10.27.0.12] File does not exist: d:/www/mysite/ico.jpg
+[Wed Jul 01 14:39:32 2020] [error] [client 10.27.0.12] File does not exist: d:/www/mysite/ico.jpg[Wed Jul 01 14:39:32 2020] [error] [client 10.27.0.12] File does not exist: d:/www/mysite/pics/drawing2.png
+
+[Wed Jul 01 15:34:11 2020] [error] [client 10.27.0.12] File does not exist: d:/www/mysite/pics/drawing2.png
+[Wed Jul 01 15:34:11 2020] [error] [client 10.27.0.12] File does not exist: d:/www/favicon.ico
+[Fri Jul 24 11:43:03 2020] [error] [client 127.0.0.1] File does not exist: d:/www/js/loader.js
+[Fri Jul 24 11:43:03 2020] [error] [client 127.0.0.1] File does not exist: d:/www/js/api/openapi.js
+[Fri Jul 24 11:43:05 2020] [error] [client 127.0.0.1] File does not exist: d:/www/js/loader.js
+[Wed Aug 12 08:43:44 2020] [error] [client 10.27.0.50] File does not exist: d:/www/favicon.ico
+[Wed Aug 12 08:45:55 2020] [error] [client 10.27.0.12] File does not exist: d:/www/mysite/ico.jpg
+[Wed Aug 12 08:45:56 2020] [error] [client 10.27.0.12] File does not exist: d:/www/mysite/pics/drawing2.png
+[Wed Aug 12 08:46:12 2020] [error] [client 10.27.0.12] File does not exist: d:/www/mysite/pics/drawing2.png
+[Wed Aug 12 08:46:13 2020] [error] [client 10.27.0.12] File does not exist: d:/www/favicon.ico
+[Wed Aug 12 08:46:13 2020] [error] [client 10.27.0.12] File does not exist: d:/www/favicon.ico
+[Wed Aug 12 08:46:32 2020] [error] [client 10.27.0.12] File does not exist: d:/www/mysite/pics/drawing2.png
+PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/web/php/ext\php_gd2.dll' - The specified module could not be found.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/web/php/ext\php_xmlrpc.dll' - The specified module could not be found.
+ in Unknown on line 0
+[Wed Aug 12 09:20:54 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 09:20:56 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/ico.jpg
+[Wed Aug 12 10:31:01 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 10:38:28 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 10:38:31 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 10:38:37 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 10:38:46 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 10:38:53 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 10:38:56 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 10:39:00 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 10:39:02 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 10:39:06 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 10:39:08 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 10:39:10 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 10:39:13 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 10:39:14 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 10:39:16 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 10:39:17 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 10:39:19 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 10:39:20 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 10:41:28 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 10:41:32 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 10:41:33 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 10:41:37 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 10:41:54 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 10:41:55 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 10:41:57 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 10:46:48 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 10:47:12 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 10:47:17 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 10:47:19 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 10:47:22 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 10:47:27 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 10:47:28 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 10:47:29 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 10:47:32 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 10:47:34 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 10:47:45 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 13:55:21 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/robots.txt
+[Wed Aug 12 13:55:21 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/robots.txt
+[Wed Aug 12 17:41:46 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/favicon.ico
+[Wed Aug 12 17:41:53 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 17:41:56 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 17:41:58 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/ieve.html
+[Wed Aug 12 17:42:03 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 17:44:22 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 17:44:23 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 17:44:24 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 17:49:09 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 17:49:10 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/ieve.html
+[Wed Aug 12 17:49:24 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 18:10:47 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 18:10:51 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 18:52:03 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+[Wed Aug 12 18:55:02 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
+PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/web/php/ext\php_gd2.dll' - The specified module could not be found.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/web/php/ext\php_xmlrpc.dll' - The specified module could not be found.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/web/php/ext\php_gd2.dll' - The specified module could not be found.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/web/php/ext\php_xmlrpc.dll' - The specified module could not be found.
+ in Unknown on line 0
+[Wed Aug 12 20:46:55 2020] [error] [client 127.0.0.1] File does not exist: d:/tutorprofileuniv/www/mysite/pics/drawing2.png
