@@ -22,3 +22,7 @@ A.info:hover {
 A.info:active {
 	COLOR: #0058a4; TEXT-DECORATION: none
 }
+
+td {
+	background-color: #b3ffb3;
+}
